@@ -1,5 +1,0 @@
-gcc -Wall -o p.exe proiect.c
-
-/p.exe -o output_dir -s izolated_space_dir dir1 dir2 dir3 dir4 dir5 dir6 dir7 dir8 dir9
-
-/p.exe -o output_dir -s izolated_space_dir dir1 dir2 dir3 dir4 dir5 dir6 dir7 dir8 dir9 dir10
